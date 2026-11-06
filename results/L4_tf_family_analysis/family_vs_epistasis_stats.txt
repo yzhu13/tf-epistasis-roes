@@ -1,0 +1,39 @@
+TF Family vs Epistasis Type — Statistical Analysis
+============================================================
+Annotation source: manual
+Total pairs: 134
+Within-family: 17
+Cross-family:  117
+
+=== Epistasis Type Distribution ===
+new_eps_type   additive  buffering  complex  synergistic
+pair_type                                               
+cross_family         30         22       43           22
+within_family         3          7        3            4
+
+  within_family proportions:
+    buffering: 0.412 (n=7)
+    synergistic: 0.235 (n=4)
+    complex: 0.176 (n=3)
+    additive: 0.176 (n=3)
+  cross_family proportions:
+    complex: 0.368 (n=43)
+    additive: 0.256 (n=30)
+    buffering: 0.188 (n=22)
+    synergistic: 0.188 (n=22)
+
+Chi-square test: chi2=5.5674, df=3, p=0.1347
+
+=== Magnitude Ratio (Mann-Whitney U) ===
+  Within-family: median=0.8719, n=17
+  Cross-family:  median=0.8816, n=117
+  U=931.0, p=0.6736
+
+=== eps_l2 (Mann-Whitney U) ===
+  Within-family: median=5.1245, n=17
+  Cross-family:  median=4.5882, n=117
+  U=1165.0, p=0.2558
+
+=== Summary ===
+Within-family pairs: 17, buffering fraction: 0.412 (7/17)
+Cross-family pairs: 117, buffering fraction: 0.188 (22/117)

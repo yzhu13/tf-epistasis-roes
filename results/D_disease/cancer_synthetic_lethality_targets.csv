@@ -1,0 +1,140 @@
+TF_driver,TF_SL_target,cancer_context,direction,synth_score,depmap_r,composite_rank,evidence,priority
+CEBPA,SPI1,AML,CEBPA high -> SPI1 is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+CEBPA,SPI1,acute myeloid leukemia,CEBPA high -> SPI1 is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+CEBPA,SPI1,myeloid,CEBPA high -> SPI1 is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+CEBPA,SPI1,familial acute myeloid leukemia,CEBPA high -> SPI1 is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+CEBPA,SPI1,Inherited cancer-predisposing syndrome,CEBPA high -> SPI1 is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+CEBPA,SPI1,inherited acute myeloid leukemia,CEBPA high -> SPI1 is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+SPI1,CEBPA,AML,SPI1 high -> CEBPA is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+SPI1,CEBPA,acute myeloid leukemia,SPI1 high -> CEBPA is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+SPI1,CEBPA,MDS,SPI1 high -> CEBPA is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+SPI1,CEBPA,myeloid,SPI1 high -> CEBPA is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+SPI1,CEBPA,myeloid neoplasm,SPI1 high -> CEBPA is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+SPI1,CEBPA,acute lymphoblastic leukemia,SPI1 high -> CEBPA is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+SPI1,CEBPA,glioma,SPI1 high -> CEBPA is SL target,248.0,0.2611557520973414,1.0,ROES + DepMap coessentiality,HIGH
+CEBPA,HOXA13,AML,CEBPA high -> HOXA13 is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXA13,acute myeloid leukemia,CEBPA high -> HOXA13 is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXA13,myeloid,CEBPA high -> HOXA13 is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXA13,familial acute myeloid leukemia,CEBPA high -> HOXA13 is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXA13,Inherited cancer-predisposing syndrome,CEBPA high -> HOXA13 is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXA13,inherited acute myeloid leukemia,CEBPA high -> HOXA13 is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,prostate cancer,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,colorectal cancer,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,leukemia,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,Endometrial Endometrioid Adenocarcinoma,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,gliomatosis cerebri,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,esophageal squamous cell carcinoma,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,urinary bladder carcinoma,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,CEBPA,lung adenocarcinoma,HOXA13 high -> CEBPA is SL target,189.00000000000003,0.0688465002055748,0.9154411764705882,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,prostate cancer,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,colorectal cancer,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,leukemia,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,Endometrial Endometrioid Adenocarcinoma,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,gliomatosis cerebri,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,esophageal squamous cell carcinoma,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,urinary bladder carcinoma,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,TP73,lung adenocarcinoma,HOXA13 high -> TP73 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,lung cancer,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,neuroblastoma,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,head and neck cancer,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,cancer predisposition,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,skin cancer,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,non-small cell lung carcinoma,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,neoplasm,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+TP73,HOXA13,glioma,TP73 high -> HOXA13 is SL target,183.0,0.0210214500373985,0.7977941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,prostate cancer,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,colorectal cancer,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,leukemia,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,Endometrial Endometrioid Adenocarcinoma,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,gliomatosis cerebri,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,esophageal squamous cell carcinoma,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,urinary bladder carcinoma,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,HOXC13,lung adenocarcinoma,HOXA13 high -> HOXC13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXC13,HOXA13,breast cancer,HOXC13 high -> HOXA13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXC13,HOXA13,lung cancer,HOXC13 high -> HOXA13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXC13,HOXA13,nonpapillary renal cell carcinoma,HOXC13 high -> HOXA13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXC13,HOXA13,non-small cell lung carcinoma,HOXC13 high -> HOXA13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXC13,HOXA13,prostate carcinoma,HOXC13 high -> HOXA13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXC13,HOXA13,breast carcinoma,HOXC13 high -> HOXA13 is SL target,169.0,0.0452646425273885,0.8602941176470589,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,prostate cancer,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,colorectal cancer,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,leukemia,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,Endometrial Endometrioid Adenocarcinoma,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,gliomatosis cerebri,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,esophageal squamous cell carcinoma,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,urinary bladder carcinoma,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+HOXA13,SPI1,lung adenocarcinoma,HOXA13 high -> SPI1 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+SPI1,HOXA13,AML,SPI1 high -> HOXA13 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+SPI1,HOXA13,acute myeloid leukemia,SPI1 high -> HOXA13 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+SPI1,HOXA13,MDS,SPI1 high -> HOXA13 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+SPI1,HOXA13,myeloid,SPI1 high -> HOXA13 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+SPI1,HOXA13,myeloid neoplasm,SPI1 high -> HOXA13 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+SPI1,HOXA13,acute lymphoblastic leukemia,SPI1 high -> HOXA13 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+SPI1,HOXA13,glioma,SPI1 high -> HOXA13 is SL target,165.00000000000003,0.1081119118166343,0.9522058823529412,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXC13,AML,CEBPA high -> HOXC13 is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXC13,acute myeloid leukemia,CEBPA high -> HOXC13 is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXC13,myeloid,CEBPA high -> HOXC13 is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXC13,familial acute myeloid leukemia,CEBPA high -> HOXC13 is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXC13,Inherited cancer-predisposing syndrome,CEBPA high -> HOXC13 is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+CEBPA,HOXC13,inherited acute myeloid leukemia,CEBPA high -> HOXC13 is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+HOXC13,CEBPA,breast cancer,HOXC13 high -> CEBPA is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+HOXC13,CEBPA,lung cancer,HOXC13 high -> CEBPA is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+HOXC13,CEBPA,nonpapillary renal cell carcinoma,HOXC13 high -> CEBPA is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+HOXC13,CEBPA,non-small cell lung carcinoma,HOXC13 high -> CEBPA is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+HOXC13,CEBPA,prostate carcinoma,HOXC13 high -> CEBPA is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+HOXC13,CEBPA,breast carcinoma,HOXC13 high -> CEBPA is SL target,160.0,0.0576023177956478,0.8786764705882353,ROES + DepMap coessentiality,MEDIUM
+CEBPE,SPI1,myeloid,CEBPE high -> SPI1 is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+CEBPE,SPI1,neutrophil differentiation,CEBPE high -> SPI1 is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+CEBPE,SPI1,acute myeloid leukemia,CEBPE high -> SPI1 is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+CEBPE,SPI1,neoplasm,CEBPE high -> SPI1 is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+CEBPE,SPI1,leukemia,CEBPE high -> SPI1 is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+CEBPE,SPI1,cancer,CEBPE high -> SPI1 is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+CEBPE,SPI1,colonic neoplasm,CEBPE high -> SPI1 is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CEBPE,AML,SPI1 high -> CEBPE is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CEBPE,acute myeloid leukemia,SPI1 high -> CEBPE is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CEBPE,MDS,SPI1 high -> CEBPE is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CEBPE,myeloid,SPI1 high -> CEBPE is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CEBPE,myeloid neoplasm,SPI1 high -> CEBPE is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CEBPE,acute lymphoblastic leukemia,SPI1 high -> CEBPE is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CEBPE,glioma,SPI1 high -> CEBPE is SL target,127.0,0.157570578880811,0.9485294117647058,ROES + DepMap coessentiality,MEDIUM
+CEBPB,TP73,breast cancer,CEBPB high -> TP73 is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+CEBPB,TP73,myeloid,CEBPB high -> TP73 is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+CEBPB,TP73,lung adenocarcinoma,CEBPB high -> TP73 is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+CEBPB,TP73,benign colon neoplasm,CEBPB high -> TP73 is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+CEBPB,TP73,neoplasm,CEBPB high -> TP73 is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+CEBPB,TP73,triple-negative breast cancer,CEBPB high -> TP73 is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+CEBPB,TP73,hepatocellular carcinoma,CEBPB high -> TP73 is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,lung cancer,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,neuroblastoma,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,head and neck cancer,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,cancer predisposition,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,skin cancer,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,non-small cell lung carcinoma,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,neoplasm,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+TP73,CEBPB,glioma,TP73 high -> CEBPB is SL target,94.0,0.1036974167714545,0.9080882352941176,ROES + DepMap coessentiality,MEDIUM
+CEBPA,MIDN,AML,CEBPA high -> MIDN is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+CEBPA,MIDN,acute myeloid leukemia,CEBPA high -> MIDN is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+CEBPA,MIDN,myeloid,CEBPA high -> MIDN is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+CEBPA,MIDN,familial acute myeloid leukemia,CEBPA high -> MIDN is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+CEBPA,MIDN,Inherited cancer-predisposing syndrome,CEBPA high -> MIDN is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+CEBPA,MIDN,inherited acute myeloid leukemia,CEBPA high -> MIDN is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+MIDN,CEBPA,myeloid,MIDN high -> CEBPA is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+MIDN,CEBPA,non-small cell lung carcinoma,MIDN high -> CEBPA is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+MIDN,CEBPA,lung adenocarcinoma,MIDN high -> CEBPA is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+MIDN,CEBPA,nonpapillary renal cell carcinoma,MIDN high -> CEBPA is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+MIDN,CEBPA,central nervous system cancer,MIDN high -> CEBPA is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+MIDN,CEBPA,breast cancer,MIDN high -> CEBPA is SL target,72.0,0.1440006446524855,0.9117647058823528,ROES + DepMap coessentiality,MEDIUM
+CDKN1A,SPI1,colorectal cancer,CDKN1A high -> SPI1 is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+CDKN1A,SPI1,bladder cancer,CDKN1A high -> SPI1 is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+CDKN1A,SPI1,lung cancer,CDKN1A high -> SPI1 is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+CDKN1A,SPI1,urinary bladder cancer,CDKN1A high -> SPI1 is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+CDKN1A,SPI1,breast carcinoma,CDKN1A high -> SPI1 is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+CDKN1A,SPI1,urinary bladder carcinoma,CDKN1A high -> SPI1 is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+CDKN1A,SPI1,renal carcinoma,CDKN1A high -> SPI1 is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CDKN1A,AML,SPI1 high -> CDKN1A is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CDKN1A,acute myeloid leukemia,SPI1 high -> CDKN1A is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CDKN1A,MDS,SPI1 high -> CDKN1A is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CDKN1A,myeloid,SPI1 high -> CDKN1A is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CDKN1A,myeloid neoplasm,SPI1 high -> CDKN1A is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CDKN1A,acute lymphoblastic leukemia,SPI1 high -> CDKN1A is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM
+SPI1,CDKN1A,glioma,SPI1 high -> CDKN1A is SL target,38.0,0.0872786935825898,0.8235294117647058,ROES + DepMap coessentiality,MEDIUM

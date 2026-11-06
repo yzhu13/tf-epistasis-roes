@@ -1,0 +1,16 @@
+LOOCV Classification Report
+                  precision    recall  f1-score   support
+
+Antagonistic(-1)       0.00      0.00      0.00        29
+  Independent(0)       0.55      0.97      0.70        76
+   Redundant(+1)       0.00      0.00      0.00        31
+
+        accuracy                           0.54       136
+       macro avg       0.18      0.32      0.23       136
+    weighted avg       0.31      0.54      0.39       136
+
+Confusion matrix:
+         Pred -1  Pred 0  Pred +1
+True -1        0      29        0
+True 0         0      74        2
+True +1        0      31        0

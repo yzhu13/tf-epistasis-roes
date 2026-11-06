@@ -1,0 +1,19 @@
+============================================================
+EXPANDED EPISTASIS GROUND TRUTH — SUMMARY
+============================================================
+Direct pairs (both singles observed)  : 12
+Implied pairs (>=1 single inferred)   : 15
+Total pairs                           : 27
+
+Epistasis type distribution (ALL pairs):
+  buffering      : 16
+  additive       : 9
+  complex        : 2
+
+Epistasis type distribution (direct only):
+  buffering      : 12
+
+Implied single-KO TFs recovered: 11
+eps_l2 mean  : 4.2445
+eps_l2 median: 4.0678
+eps_l2 max   : 12.5485

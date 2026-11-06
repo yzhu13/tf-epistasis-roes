@@ -1,0 +1,32 @@
+============================================================
+GSE133344 FULL EPISTASIS GROUND TRUTH - SUMMARY
+============================================================
+Total double-perturbation conditions: 132
+Pairs with matching singles (full GT):  132
+Singles available: 108
+
+Epistasis type distribution:
+  buffering      : 83
+  complex        : 49
+
+eps_l2 mean  : 4.9624
+eps_l2 median: 4.6818
+eps_l2 max   : 10.1810
+
+Top 15 by eps_l2:
+   TF_A    TF_B    eps_l2  eps_relative  eps_type
+  CEBPB   CEBPA 10.180966      0.643027 buffering
+    FEV CBFA2T3  9.719223      0.688987   complex
+  CEBPE   CEBPA  9.017132      0.622858 buffering
+    JUN   CEBPA  8.868044      0.502235   complex
+ ZBTB10    DLX2  8.692451      0.611781   complex
+ ZBTB10   SNAI1  7.917452      0.633627   complex
+  DUSP9   SNAI1  7.873079      0.652962   complex
+    JUN   CEBPB  7.800069      0.599818   complex
+C3orf72   FOXL2  7.706120      0.889504 buffering
+    SET   CEBPE  7.281876      1.148276 buffering
+   FOSB   CEBPB  7.152669      0.559621   complex
+  CEBPE   CEBPB  7.118105      0.590507 buffering
+  PRDM1 CBFA2T3  6.858707      0.585115   complex
+   PLK4    STIL  6.754081      0.971703   complex
+    AHR     FEV  6.649230      0.553873   complex

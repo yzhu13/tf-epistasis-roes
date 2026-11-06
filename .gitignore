@@ -1,0 +1,7 @@
+data/raw/
+__pycache__/
+*.pyc
+.DS_Store
+*.h5ad
+*.mtx.gz
+results/F_full_groundtruth/pseudobulk_all_conditions.csv.gz

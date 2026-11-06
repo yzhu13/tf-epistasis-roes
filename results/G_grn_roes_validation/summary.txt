@@ -1,0 +1,58 @@
+============================================================
+DIRECTION G: GSE133344-DERIVED GRN + ROES VALIDATION (n=132)
+============================================================
+
+GRN: 66475 edges across 108 TFs (Z_THRESH=2.5)
+Ground truth pairs: 132
+Pairs with shared targets > 0: 132
+
+Correlations (ROES feature -> eps_l2 / eps_relative):
+          feature       target  pearson_r    pearson_p  spearman_rho   spearman_p   n
+ n_shared_targets       eps_l2   0.512722 3.275710e-10      0.573560 6.565100e-13 132
+ n_shared_targets eps_relative  -0.075485 3.896618e-01     -0.103406 2.380377e-01 132
+  jaccard_overlap       eps_l2  -0.538837 2.648682e-11     -0.626728 9.103870e-16 132
+  jaccard_overlap eps_relative  -0.034599 6.936941e-01     -0.003347 9.696153e-01 132
+parallel_fraction       eps_l2  -0.264126 2.211490e-03     -0.414533 7.752762e-07 132
+parallel_fraction eps_relative   0.004739 9.569909e-01     -0.092125 2.934413e-01 132
+ antagonism_score       eps_l2   0.264126 2.211490e-03      0.414533 7.752762e-07 132
+ antagonism_score eps_relative  -0.004739 9.569909e-01      0.092125 2.934413e-01 132
+     serial_score       eps_l2   0.267325 1.943617e-03      0.231939 7.449991e-03 132
+     serial_score eps_relative  -0.072172 4.108599e-01     -0.074450 3.962128e-01 132
+      synth_score       eps_l2   0.502842 8.034321e-10      0.533083 4.696423e-11 132
+      synth_score eps_relative  -0.075165 3.916806e-01     -0.084542 3.351449e-01 132
+
+Top 15 by eps_l2:
+   TF_A    TF_B    eps_l2  n_shared_targets  jaccard_overlap  parallel_fraction  synth_score  eps_type
+  CEBPB   CEBPA 10.180966               358         0.092078           0.994413        356.0 buffering
+    FEV CBFA2T3  9.719223                71         0.046711           0.985915         70.0   complex
+  CEBPE   CEBPA  9.017132               399         0.109465           1.000000        399.0 buffering
+    JUN   CEBPA  8.868044               118         0.030554           0.966102        114.0   complex
+ ZBTB10    DLX2  8.692451                71         0.022713           1.000000         71.0   complex
+ ZBTB10   SNAI1  7.917452                97         0.030237           0.927835         90.0   complex
+  DUSP9   SNAI1  7.873079                70         0.069860           0.985714         69.0   complex
+    JUN   CEBPB  7.800069                86         0.052503           1.000000         86.0   complex
+C3orf72   FOXL2  7.706120                93         0.083859           0.989247         92.0 buffering
+    SET   CEBPE  7.281876                94         0.054273           0.989362         93.0 buffering
+   FOSB   CEBPB  7.152669                80         0.065681           1.000000         80.0   complex
+  CEBPE   CEBPB  7.118105               206         0.130215           1.000000        206.0 buffering
+  PRDM1 CBFA2T3  6.858707                75         0.061224           0.973333         73.0   complex
+   PLK4    STIL  6.754081               103         0.052929           0.961165         99.0   complex
+    AHR     FEV  6.649230                70         0.045396           1.000000         70.0   complex
+
+Top 15 by synth_score:
+   TF_A   TF_B  synth_score  n_shared_targets  parallel_fraction    eps_l2  eps_type
+  CEBPE  CEBPA        399.0               399           1.000000  9.017132 buffering
+  CEBPB  CEBPA        356.0               358           0.994413 10.180966 buffering
+  CEBPE  CEBPB        206.0               206           1.000000  7.118105 buffering
+  CEBPE   SPI1        139.0               139           1.000000  6.600895   complex
+   ETS2  MAPK1        135.0               135           1.000000  4.283716 buffering
+    JUN  CEBPA        114.0               118           0.966102  8.868044   complex
+ CDKN1C CDKN1A        111.0               111           1.000000  6.224627 buffering
+ RHOXF2    SET        104.0               104           1.000000  5.422217 buffering
+   IRF1    SET        100.0               106           0.943396  4.706498 buffering
+  CEBPB  MAPK1        100.0               101           0.990099  5.629027 buffering
+ IGDCC3   PRTG         99.0                99           1.000000  5.868141 buffering
+   PLK4   STIL         99.0               103           0.961165  6.754081   complex
+ MAP2K3 MAP2K6         94.0                94           1.000000  3.447443 buffering
+    SET  CEBPE         93.0                94           0.989362  7.281876 buffering
+C3orf72  FOXL2         92.0                93           0.989247  7.706120 buffering

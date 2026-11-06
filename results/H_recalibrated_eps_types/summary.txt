@@ -1,0 +1,51 @@
+============================================================
+RECALIBRATED EPS_TYPE CLASSIFICATION (n=132)
+============================================================
+
+magnitude_ratio tertiles: q33=0.808  q66=1.015
+cos_obs_expected tertiles: q33=0.803  q66=0.864
+
+New eps_type distribution:
+new_eps_type
+complex        44
+additive       33
+buffering      29
+synergistic    26
+
+Old vs new crosstab:
+new_eps_type  additive  buffering  complex  synergistic
+old_eps_type                                           
+buffering           32         29       22            0
+complex              1          0       22           26
+
+Top 5 'synergistic' pairs by eps_l2:
+ TF_A    TF_B   eps_l2  magnitude_ratio  cos_obs_expected
+  JUN   CEBPA 8.868044         1.047668          0.868952
+  JUN   CEBPB 7.800069         1.125211          0.804551
+ FOSB   CEBPB 7.152669         1.175533          0.829032
+PRDM1 CBFA2T3 6.858707         1.161990          0.812382
+  AHR     FEV 6.649230         1.222650          0.832733
+
+Top 5 'buffering' pairs by eps_l2:
+  TF_A   TF_B    eps_l2  magnitude_ratio  cos_obs_expected
+ CEBPB  CEBPA 10.180966         0.770647          0.874804
+ CEBPE  CEBPA  9.017132         0.692445          0.933984
+   SET  CEBPE  7.281876         0.540240          0.839471
+CDKN1C CDKN1A  6.224627         0.661535          0.874744
+ZBTB10 PTPN12  6.198315         0.777386          0.814987
+
+Top 5 'additive' pairs by eps_l2:
+ TF_A  TF_B   eps_l2  magnitude_ratio  cos_obs_expected
+CEBPE CEBPB 7.118105         0.814897          0.878946
+ KLF1 CEBPA 5.773876         0.858760          0.914066
+SAMD1 ZBTB1 4.913186         0.828612          0.880210
+ KLF1 CLDN6 4.879509         0.912158          0.841484
+CEBPB  OSR2 4.795979         0.894781          0.903052
+
+Top 5 'complex' pairs by eps_l2:
+   TF_A    TF_B   eps_l2  magnitude_ratio  cos_obs_expected
+    FEV CBFA2T3 9.719223         1.825755          0.753391
+ ZBTB10    DLX2 8.692451         1.220520          0.791516
+ ZBTB10   SNAI1 7.917452         1.038324          0.792272
+  DUSP9   SNAI1 7.873079         1.344714          0.757517
+C3orf72   FOXL2 7.706120         0.853052          0.675182

@@ -1,0 +1,72 @@
+GRN Expansion Summary — Replogle 2022 gwps Integration
+============================================================
+Original GRN:  64,129 edges, 2,075 TFs
+Expanded GRN:  144,846 edges, 2,977 TFs
+New TFs added: 902
+New edges added: 80,666
+
+New TFs (up to 50 shown):
+  AR
+  ARID1A
+  ARID2
+  ARID3C
+  ARID4A
+  ARID4B
+  ARID5A
+  ARID5B
+  ASCL2
+  ASCL3
+  ASCL4
+  ASCL5
+  ASXL1
+  ASXL2
+  ATF1
+  ATF2
+  ATF6
+  ATF6B
+  ATF7
+  ATF7IP
+  ATF7IP2
+  BACH1
+  BACH2
+  BCL10
+  BCL11A
+  BCL11B
+  BCL2L11
+  BCL2L12
+  BCL2L13
+  BCL2L2
+  BCL6
+  BCL6B
+  BCL7A
+  BCL7B
+  BCL7C
+  BMI1
+  BRD1
+  BRD2
+  BRD3
+  BRD7
+  BRD9
+  CBX2
+  CBX3
+  CBX5
+  CBX6
+  CBX8
+  CEBPD
+  CEBPG
+  CHD1
+  CHD1L
+  ... and 852 more
+
+ROES re-computed for Norman pairs: 136
+Top 50 new synthetic essential predictions:
+  GATA1           KDM1A            score=49.30
+  CEBPZ           MYBBP1A          score=45.79
+  GATA1           LDB1             score=38.64
+  TWISTNB         CEBPZ            score=31.95
+  MAX             BRD8             score=31.57
+  TWISTNB         MYBBP1A          score=26.82
+  LDB1            KDM1A            score=25.54
+  MED1            ETV4             score=24.42
+  GATA1           MED1             score=23.28
+  KDM1A           FOXO1            score=20.61

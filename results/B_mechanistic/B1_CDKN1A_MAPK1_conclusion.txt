@@ -1,0 +1,23 @@
+
+CDKN1A/MAPK1 Mechanistic Conclusion
+-------------------------------------
+DepMap correlation r = -0.176 (negative = synthetic essential / antagonistic)
+Shared targets       = 5
+Parallel fraction    = 0.200  (only 20% of shared targets co-activated)
+Antagonism score     = 0.800  (80% of shared targets oppositely regulated)
+Direction concordance= 20.0% (among shared targets)
+MAPK1 regulates CDKN1A: False
+CDKN1A regulates MAPK1: False
+
+Interpretation:
+  Despite having 5 shared target genes (ROES = 22), CDKN1A and MAPK1
+  show OPPOSITE regulatory directions on 4/5 shared targets
+  (antagonism_score = 0.80).  This means:
+  - CDKN1A tends to REPRESS targets that MAPK1 ACTIVATES (or vice versa).
+  - These TFs are NOT redundant; they are antagonistic co-regulators.
+  - Knocking out one releases the opposing signal, so cells depend more on
+    the remaining TF -> negative DepMap co-essentiality (r = -0.176).
+  
+  
+
+Mechanistic class: ANTAGONISTIC / SYNTHETIC-ESSENTIAL

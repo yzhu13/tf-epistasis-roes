@@ -1,0 +1,6 @@
+predictor,outcome,type,r,p,n,note
+antagonism_score,depmap_r,pearson,0.034818994821505134,0.7045777317129266,121,
+antagonism_score,depmap_r,spearman,-0.061510198872378165,0.5027150154090173,121,
+antagonism_score,depmap_r,partial_pearson,0.034943963556378244,0.703566917150941,121,controlling n_shared_targets
+parallel_fraction,depmap_r,pearson,-0.0348189948215052,0.7045777317129266,121,
+parallel_fraction,depmap_r,partial_pearson,-0.034943963556378126,0.703566917150941,121,controlling n_shared_targets

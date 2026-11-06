@@ -1,0 +1,137 @@
+TF_A,TF_B,synth_score,has_dev_disease_A,has_dev_disease_B,both_have_dev_disease,n_shared_dev_diseases,shared_diseases,n_shared_dev_diseases_HC,both_have_hc_dev_disease,shared_diseases_HC,high_roes,has_shared_hc_dev,dev_count,fisher_OR,fisher_p,spearman_rho,spearman_p
+CEBPA,SPI1,248.0,True,True,True,17,acute erythroleukemia|chronic myelogenous leukemia|alpha-thalassemia-myelodysplastic syndrome|acute myeloid leukemia|myelodysplastic syndrome,1.0,True,acute myeloid leukemia,True,True,17,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,TP73,237.0,True,True,True,11,acute erythroleukemia|chronic myelogenous leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia,0.0,False,,True,False,11,inf,0.5,0.14807643090581413,0.08535770155601549
+SPI1,TP73,211.0,True,True,True,12,li-fraumeni syndrome|beta-thalassemia-x-linked thrombocytopenia syndrome|acute erythroleukemia|chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,True,False,12,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,HOXA13,189.00000000000003,True,True,True,2,adult t-cell leukemia/lymphoma|genetic disorder,0.0,True,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXA13,TP73,183.0,True,True,True,1,genetic disorder,0.0,False,,True,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,CEBPE,170.0,True,True,True,9,chronic myelogenous leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|childhood leukemia,0.0,False,,True,False,9,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXA13,HOXC13,169.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXA13,SPI1,165.00000000000003,True,True,True,0,,0.0,True,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXC13,TP73,164.0,True,True,True,2,neurodevelopmental disorder|nail-patella syndrome,0.0,False,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,HOXC13,160.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXC13,SPI1,147.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,CEBPB,139.0,True,True,True,3,acute lymphoblastic leukemia|acute promyelocytic leukemia|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,SPI1,127.0,True,True,True,7,chronic myelogenous leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|metabolic syndrome,0.0,False,,True,False,7,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,CEBPE,124.0,True,True,True,6,achalasia-alacrima syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|townes-brocks syndrome|metabolic syndrome,0.0,False,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,SPI1,112.0,True,True,True,5,acute myeloid leukemia|acute lymphoblastic leukemia|metabolic syndrome|acute promyelocytic leukemia|activated pi3k-delta syndrome,0.0,False,,True,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,TP73,107.0,True,True,True,9,chronic myelogenous leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|acute leukemia,0.0,False,,True,False,9,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,HOXA13,101.0,True,True,True,1,genetic disorder,0.0,False,,True,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,TP73,94.0,True,True,True,3,acute lymphoblastic leukemia|acute promyelocytic leukemia|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,HOXC13,89.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,HOXA13,85.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,HOXC13,78.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,MIDN,72.0,True,True,True,6,chronic myelogenous leukemia|genetic disorder|acute myeloid leukemia|acute lymphoblastic leukemia|acute promyelocytic leukemia,0.0,False,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+MIDN,TP73,70.0,True,True,True,6,chronic myelogenous leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|mobius syndrome|acute promyelocytic leukemia,0.0,False,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXA13,MIDN,69.0,True,True,True,1,genetic disorder,0.0,False,,True,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+MIDN,SPI1,66.0,True,True,True,6,chronic myelogenous leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|metabolic syndrome|myeloid neoplasm,0.0,False,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXC13,MIDN,65.0,True,True,True,2,hereditary breast cancer|hereditary breast carcinoma,0.0,False,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,MIDN,60.0,True,True,True,10,leukemia|chronic myelogenous leukemia|acute myeloid leukemia by fab classification|acute myeloid leukemia|acute lymphoblastic leukemia,0.0,False,,True,False,10,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,TP73,59.0,True,True,True,6,nail-patella syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|mobius syndrome|neurodevelopmental disorder,0.0,False,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,HOXC13,55.0,True,True,True,2,neurodevelopmental disorder|nail-patella syndrome,0.0,False,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,MIDN,54.0,True,True,True,5,acute myeloid leukemia|acute lymphoblastic leukemia|metabolic syndrome|acute promyelocytic leukemia|covid-19–associated multisystem inflammatory syndrome in adults,0.0,False,,True,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,HOXA13,54.0,True,True,True,1,genetic disorder,0.0,True,,True,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,SPI1,52.0,True,True,True,2,acute lymphoblastic leukemia|acute myeloid leukemia,0.0,True,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,CEBPA,45.0,True,True,True,3,acute lymphoblastic leukemia|genetic disorder|acute myeloid leukemia,0.0,True,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,TP73,42.0,True,True,True,6,li-fraumeni syndrome|familial atypical multiple mole melanoma syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|nijmegen breakage syndrome,0.0,False,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+PTPN1,TP73,40.0,True,True,True,3,nijmegen breakage syndrome|chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+PTPN1,SPI1,39.0,True,True,True,3,metabolic syndrome|chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,SPI1,38.0,True,True,True,4,li-fraumeni syndrome|acute lymphoblastic leukemia|chronic lymphocytic leukemia|acute myeloid leukemia,0.0,False,,True,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,MAPK1,36.0,True,True,True,8,adult t-cell leukemia/lymphoma|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|chronic lymphocytic leukemia,0.0,True,,True,False,8,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,CEBPE,36.0,True,True,True,7,leukemia|acute myeloid leukemia|bloom syndrome|acute lymphoblastic leukemia|epilepsy,0.0,False,,True,False,7,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,CEBPB,34.0,True,True,True,4,acute lymphoblastic leukemia|cardiac hypertrophy|dry eye syndrome|acute myeloid leukemia,0.0,False,,True,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,HOXC13,34.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,CEBPA,32.0,True,True,True,3,acute lymphoblastic leukemia|chronic lymphocytic leukemia|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXA13,PTPN1,32.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,HOXA13,32.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,MIDN,32.0,True,True,True,5,leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|mobius syndrome|genetic disorder,0.0,False,,True,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXC13,PTPN1,32.0,True,True,True,1,acute respiratory distress syndrome,0.0,False,,True,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,TP73,31.0,True,True,True,4,atypical hemolytic-uremic syndrome with b factor anomaly|chronic myelogenous leukemia|genetic disorder|acute myeloid leukemia,0.0,False,,True,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,CDKN1C,31.0,True,True,True,1,acute myeloid leukemia,0.0,False,,True,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,PTPN1,31.0,True,True,True,3,cardiac hypertrophy|myeloid sarcoma|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,PTPN1,29.0,True,True,True,2,chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,SPI1,28.0,True,True,True,2,chronic myelogenous leukemia|acute myeloid leukemia,0.0,True,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,MAPK1,28.0,True,True,True,7,leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|chronic lymphocytic leukemia,0.0,False,,True,False,7,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,CDKN1A,28.0,True,True,True,4,acute lymphoblastic leukemia|leukemia|dry eye syndrome|acute myeloid leukemia,0.0,False,,True,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,PTPN1,26.0,True,True,True,5,chronic myelogenous leukemia|acute myeloid leukemia|metabolic syndrome|feingold syndrome|myeloid sarcoma,0.0,False,,True,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,HOXC13,26.0,True,True,True,0,,0.0,False,,True,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,MAPK1,26.0,True,True,True,3,acute lymphoblastic leukemia|polycystic ovary syndrome|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,HOXA13,24.000000000000004,True,True,True,3,mayer-rokitansky-küster-hauser syndrome|testicular regression syndrome|genetic disorder,0.0,True,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,CEBPE,23.0,True,True,True,4,acute lymphoblastic leukemia|chronic lymphocytic leukemia|leukemia|acute myeloid leukemia,0.0,False,,True,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,CEBPB,22.0,True,True,True,3,acute lymphoblastic leukemia|dry eye syndrome|acute myeloid leukemia,0.0,False,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,CDKN1C,22.0,True,True,True,2,genetic disorder|acute myeloid leukemia,0.0,True,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,CDKN1C,22.0,True,True,True,3,testicular regression syndrome|chronic myelogenous leukemia|acute myeloid leukemia,0.0,True,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,CDKN1B,22.0,True,True,True,5,leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|nijmegen breakage syndrome|chronic lymphocytic leukemia,0.0,False,,True,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,MAPK1,22.0,True,True,True,6,guillain-barre syndrome|leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|polycystic ovary syndrome,0.0,True,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,PTPN1,22.0,True,True,True,4,cardiac hypertrophy|metabolic syndrome|polycystic ovary syndrome|acute myeloid leukemia,0.0,False,,True,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,PTPN1,22.0,True,True,True,2,nijmegen breakage syndrome|acute myeloid leukemia,0.0,False,,True,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,TP73,20.0,True,True,True,7,chronic myelogenous leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|nijmegen breakage syndrome,0.0,False,,True,False,7,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,CEBPA,20.0,True,True,True,3,chronic myelogenous leukemia|genetic disorder|acute myeloid leukemia,0.0,True,,True,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+MIDN,PTPN1,19.0,True,True,True,6,chronic myelogenous leukemia|acute myeloid leukemia|metabolic syndrome|microphthalmia with limb anomalies|pallister-hall syndrome,0.0,False,,True,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,ETS2,18.0,True,True,True,4,acute lymphoblastic leukemia|acute erythroleukemia|chronic myelogenous leukemia|acute myeloid leukemia,0.0,True,,False,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,CEBPB,17.0,True,True,True,1,acute myeloid leukemia,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,SPI1,17.0,True,True,True,5,chronic myelogenous leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia|chronic lymphocytic leukemia,0.0,True,,False,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,PTPN1,17.0,True,True,True,2,chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+MAPK1,SPI1,17.0,True,True,True,4,acute lymphoblastic leukemia|chronic lymphocytic leukemia|myelodysplastic syndrome|acute myeloid leukemia,0.0,True,,False,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,HOXC13,17.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,CDKN1B,16.0,True,True,True,3,acute lymphoblastic leukemia|leukemia|acute myeloid leukemia,0.0,True,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,HOXA13,16.0,True,True,True,2,testicular regression syndrome|adult t-cell leukemia/lymphoma,0.0,True,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,ETS2,15.0,True,True,True,5,leukemia|chronic myelogenous leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|dravet syndrome,0.0,False,,False,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,CEBPE,14.0,True,True,True,3,chronic myelogenous leukemia|genetic disorder|acute myeloid leukemia,0.0,False,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,ETS2,13.999999999999998,True,True,True,5,acute myeloid leukemia|acute lymphoblastic leukemia|polycystic ovary syndrome|cardiac hypertrophy|covid-19–associated multisystem inflammatory syndrome in adults,0.0,False,,False,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,MIDN,13.0,True,True,True,3,acute lymphoblastic leukemia|leukemia|acute myeloid leukemia,0.0,False,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,PTPN1,13.0,True,True,True,5,chronic myelogenous leukemia|acute myeloid leukemia|nijmegen breakage syndrome|polycystic ovary syndrome|pallister-hall syndrome,0.0,False,,False,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,CEBPA,12.0,True,True,True,13,hereditary neoplastic syndrome|b-cell acute lymphoblastic leukemia|chronic myelogenous leukemia|acute myeloid leukemia|adult t-cell leukemia/lymphoma,0.0,True,,False,False,13,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,CEBPB,10.0,True,True,True,3,acute lymphoblastic leukemia|polycystic ovary syndrome|acute myeloid leukemia,0.0,False,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,SPI1,9.0,True,True,True,4,acute lymphoblastic leukemia|acute erythroleukemia|chronic myelogenous leukemia|acute myeloid leukemia,0.0,True,,False,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,CEBPE,9.0,True,True,True,6,leukemia|chronic myelogenous leukemia|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia,0.0,False,,False,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,MIDN,8.0,True,True,True,7,cleft palate|chronic myelogenous leukemia|cleft lip/palate|acute myeloid leukemia|cleft lip,0.0,False,,False,False,7,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,KLF1,7.0,True,True,True,2,genetic disorder|acute myeloid leukemia,0.0,True,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+MAPK1,TP73,7.0,True,True,True,10,myelodysplastic syndrome|acute myeloid leukemia|nail-patella syndrome|acute lymphoblastic leukemia|nijmegen breakage syndrome,0.0,False,,False,False,10,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,HOXC13,7.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,MIDN,7.0,True,True,True,6,leukemia|chronic myelogenous leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|sjogren syndrome,0.0,False,,False,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,HOXA13,7.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,TP73,7.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,KLF1,6.0,True,True,True,1,acute myeloid leukemia,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,FOXA3,6.0,True,True,True,1,myeloid sarcoma,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+KLF1,TP73,6.0,True,True,True,12,rh deficiency syndrome|beta-thalassemia-x-linked thrombocytopenia syndrome|acute erythroleukemia|chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,False,False,12,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,SPI1,6.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+KLF1,SPI1,6.0,True,True,True,24,hereditary persistence of fetal hemoglobin - beta-thalassemia|acute erythroleukemia|beta-thalassemia-x-linked thrombocytopenia syndrome|acute myeloid leukemia|autoimmune lymphoproliferative syndrome type 4,0.0,True,,False,False,24,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,HOXA13,5.0,True,True,True,0,,0.0,True,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+KLF1,PTPN1,5.0,True,True,True,2,chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXC13,KLF1,5.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,FOXA3,5.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,KLF1,5.0,True,True,True,14,acute erythroleukemia|chronic myelogenous leukemia|alpha-thalassemia-myelodysplastic syndrome|acute myeloid leukemia|recurrent infections-myelofibrosis-nephromegaly syndrome,0.0,True,,False,False,14,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,FOXA3,5.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,KLF1,5.0,True,True,True,2,chronic myelogenous leukemia|acute myeloid leukemia,0.0,True,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXA13,KLF1,5.0,True,True,True,1,genetic disorder,0.0,True,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXC13,MAPK1,5.0,True,True,True,3,neurodevelopmental disorder|nail-patella syndrome|cerebral creatine deficiency syndrome,0.0,False,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+HOXA13,MAPK1,4.999999999999999,True,True,True,2,adult t-cell leukemia/lymphoma|genetic disorder,0.0,True,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,KLF1,4.0,True,True,True,9,atypical hemolytic-uremic syndrome with thrombomodulin anomaly|nephrotic syndrome|chronic myelogenous leukemia|acute myeloid leukemia|atypical hemolytic-uremic syndrome with mcp/cd46 anomaly,0.0,True,,False,False,9,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,FOXA3,4.0,True,True,True,1,myeloid sarcoma,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,FOXA3,4.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,TP73,4.0,True,True,True,4,acute lymphoblastic leukemia|acute erythroleukemia|chronic myelogenous leukemia|acute myeloid leukemia,0.0,False,,False,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPA,FOXA3,4.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+MAPK1,MIDN,4.0,True,True,True,6,leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|mobius syndrome|microphthalmia with limb anomalies,0.0,False,,False,False,6,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,FOXA3,4.0,True,True,True,1,pallister-hall syndrome,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,MIDN,4.0,True,True,True,1,pallister-hall syndrome,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,PTPN1,4.0,True,True,True,2,myeloid sarcoma|pallister-hall syndrome,0.0,False,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,HOXC13,4.0,True,True,True,1,acute respiratory distress syndrome,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPE,KLF1,3.0,True,True,True,4,acute myelomonocytic leukemia|chronic myelogenous leukemia|genetic disorder|acute myeloid leukemia,0.0,False,,False,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+CEBPB,KLF1,3.0,True,True,True,1,acute myeloid leukemia,0.0,False,,False,False,1,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,MIDN,3.0,True,True,True,8,leukemia|chronic myelogenous leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|microphthalmia with limb anomalies,0.0,False,,False,False,8,inf,0.5,0.14807643090581413,0.08535770155601549
+KLF1,MAPK1,2.0,True,True,True,2,genetic disorder|acute myeloid leukemia,0.0,True,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,ETS2,1.0,True,True,True,4,acute lymphoblastic leukemia|cardiac hypertrophy|leukemia|acute myeloid leukemia,0.0,True,,False,False,4,inf,0.5,0.14807643090581413,0.08535770155601549
+KLF1,MIDN,1.0,True,True,True,3,chronic myelogenous leukemia|genetic disorder|acute myeloid leukemia,0.0,False,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,FOXA3,1.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,MAPK1,1.0,True,True,True,5,leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|nijmegen breakage syndrome|chronic lymphocytic leukemia,0.0,False,,False,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1A,ETS2,1.0,True,True,True,3,acute lymphoblastic leukemia|leukemia|acute myeloid leukemia,0.0,False,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,MAPK1,1.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+ATL1,MAPK1,0.9999999999999996,True,True,True,8,leukemia|nail-patella syndrome|acute myeloid leukemia|intellectual disability|acute lymphoblastic leukemia,0.0,True,,False,False,8,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,KLF1,0.9999999999999996,True,True,True,3,acute erythroleukemia|chronic myelogenous leukemia|acute myeloid leukemia,0.0,True,,False,False,3,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,MAPK1,0.0,True,True,True,9,leukemia|adult t-cell leukemia/lymphoma|myelodysplastic syndrome|acute myeloid leukemia|acute lymphoblastic leukemia,0.0,True,,False,False,9,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,MAPK1,0.0,True,True,True,2,genetic disorder|acute myeloid leukemia,0.0,True,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1B,ETS2,0.0,True,True,True,5,leukemia|chronic myelogenous leukemia|acute myeloid leukemia|acute lymphoblastic leukemia|polycystic ovary syndrome,0.0,True,,False,False,5,inf,0.5,0.14807643090581413,0.08535770155601549
+CDKN1C,ETS2,0.0,True,True,True,2,chronic myelogenous leukemia|acute myeloid leukemia,0.0,True,,False,False,2,inf,0.5,0.14807643090581413,0.08535770155601549
+ETS2,PTPN1,0.0,True,True,True,7,guillain-barre syndrome|acute respiratory distress syndrome|chronic myelogenous leukemia|acute myeloid leukemia|polycystic ovary syndrome,0.0,False,,False,False,7,inf,0.5,0.14807643090581413,0.08535770155601549
+FOXA3,KLF1,0.0,True,True,True,0,,0.0,False,,False,False,0,inf,0.5,0.14807643090581413,0.08535770155601549
+MAPK1,PTPN1,0.0,True,True,True,5,guillain-barre syndrome|acute myeloid leukemia|nijmegen breakage syndrome|polycystic ovary syndrome|microphthalmia with limb anomalies,0.0,False,,False,False,5,inf,0.5,0.14807643090581413,0.08535770155601549

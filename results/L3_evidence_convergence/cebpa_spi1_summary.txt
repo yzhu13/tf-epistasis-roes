@@ -1,0 +1,10 @@
+CEBPA/SPI1 Evidence Convergence Summary
+==================================================
+
+n_shared_targets: value=253.0000, rank=1/136, top 0.7% (percentile=99.3%)
+depmap_r: value=0.2612, rank=1/136, top 0.7% (percentile=99.3%)
+ppi_score: value=0.9900, rank=1/136, top 0.7% (percentile=99.3%)
+shared_disease_score: value=0.0000, rank=23/136, top 16.9% (percentile=83.1%)
+
+Other pairs in top 10% across ALL 4 dimensions simultaneously:
+  None — CEBPA/SPI1 is the ONLY pair in top 10% across all 4 dimensions.

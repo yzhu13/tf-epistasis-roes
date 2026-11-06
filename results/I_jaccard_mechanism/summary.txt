@@ -1,0 +1,23 @@
+============================================================
+DIRECTION I: JACCARD SIGN-REVERSAL MECHANISM (n=132)
+============================================================
+
+total_targets (|A|+|B|) correlations:
+  total_targets -> eps_l2            : r=+0.729  p=3.79e-23
+  total_targets -> jaccard_overlap   : r=-0.652  p=2.34e-17
+  total_targets -> n_shared_targets  : r=+0.564  p=1.95e-12
+
+Partial correlations (jaccard vs eps_l2):
+  raw                              : r=-0.539  p=2.65e-11
+  controlling for n_shared_targets : r=-0.620  p=2.13e-15
+  controlling for total_targets    : r=-0.122  p=0.164
+
+Partial correlations (n_shared_targets vs eps_l2):
+  raw                          : r=+0.513  p=3.28e-10
+  controlling for jaccard      : r=+0.601  p=2.6e-14
+  controlling for total_targets: r=+0.180  p=0.039
+
+Multiple regression (standardized): eps_l2 ~ n_shared + jaccard
+  beta(n_shared_targets) = +0.506
+  beta(jaccard_overlap)  = -0.533
+  Model R^2 = 0.547  (n_shared alone R^2=0.263, jaccard alone R^2=0.290)

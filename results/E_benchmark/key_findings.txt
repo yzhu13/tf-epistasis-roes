@@ -1,0 +1,44 @@
+ROES Benchmark Key Findings
+===========================
+Date: 2026-06-09 18:34
+Dataset: DepMap co-essentiality (n=136 pairs)
+
+Best method: jaccard_only
+  Pearson r  = 0.1615  (95% CI: -0.0111 – 0.3251)
+  Spearman ρ = 0.1557
+  RMSE       = 0.0638
+  AUC        = 0.5830
+
+ROES_v1:
+  Pearson r  = 0.0505  (95% CI: -0.1025 – 0.2109)
+  Spearman ρ = 0.0756
+  AUC        = 0.5480
+
+ROES_v2 (+ direction_bias):
+  Pearson r  = 0.0505
+  Spearman ρ = 0.0756
+
+STRING PPI available: True
+PPI-enhanced results included above.
+
+Top feature (Ridge coef): jaccard_overlap (coef=0.0164)
+
+All methods (DepMap):
+         method  pearson_r  spearman_rho     rmse      auc
+random_baseline  -0.020463     -0.001894 0.089686 0.543750
+  mean_baseline        NaN           NaN 0.064487 0.500000
+   jaccard_only   0.161480      0.155732 0.063814 0.583036
+  n_shared_only   0.044262     -0.061295 0.065007 0.482366
+        roes_v1   0.050507      0.075555 0.065482 0.547991
+        roes_v2   0.050454      0.075555 0.065483 0.547991
+       ppi_only   0.146803     -0.266023 0.064964 0.325893
+       roes_ppi   0.096875      0.001145 0.066456 0.502232
+
+Norman 2019 (n=12):
+         method  pearson_r  spearman_rho     rmse
+random_baseline   0.184103      0.363636 1.717335
+  mean_baseline        NaN           NaN 1.544039
+   jaccard_only  -0.743631     -0.734266 1.775311
+  n_shared_only   0.631668      0.349650 1.199698
+        roes_v1   0.625997      0.587413 1.249375
+        roes_v2   0.623224      0.587413 1.255176

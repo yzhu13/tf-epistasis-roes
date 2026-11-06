@@ -1,0 +1,9 @@
+parallel_fraction:
+  ANOVA F=0.418 p=0.7402
+  Kruskal-Wallis H=1.794 p=0.6163
+  Group means: buffering=0.993, additive=0.990, synergistic=0.995, complex=0.992
+
+antagonism_score:
+  ANOVA F=0.418 p=0.7402
+  Kruskal-Wallis H=1.794 p=0.6163
+  Group means: buffering=0.007, additive=0.010, synergistic=0.005, complex=0.008
